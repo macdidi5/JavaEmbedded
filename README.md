@@ -15,4 +15,4 @@ JavaEmbedded
 12. NFC的應用與實作 - 實作用戶端應用程式
 
 ============
-[CodeData](http://www.codedata.com.tw/author/michael)
+[CodeData - Michael](http://www.codedata.com.tw/author/michael)
