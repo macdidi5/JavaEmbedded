@@ -9,10 +9,10 @@ Java Embedded
 4. [建立 Raspberry Pi 上的 Java 執行環境](http://www.codedata.com.tw/java/java-embedded-4-raspberry-pi-jdk8-embedded-8/)
 5. [開發環境、遠端執行環境的建立](http://www.codedata.com.tw/java/java-embedded-5-dev-env-remote-javase/)
 6. [認識 Raspberry Pi 的 GPIO](http://www.codedata.com.tw/java/java-embedded-6-raspberry-pi-gpio/)
-7. [Raspberry Pi GPIO的基礎應用與實作（上）](http://www.codedata.com.tw/java/java-embedded-7-raspberry-pi-gpio-implementation-1/)
-8. [Raspberry Pi GPIO的基礎應用與實作（下）](http://www.codedata.com.tw/java/java-embedded-7-raspberry-pi-gpio-implementation-2/)
-9. GPIO的進階應用 – 超音波測距模組
-10. GPIO的進階應用 – 伺服馬達
+7. [GPIO的基礎應用與實作（上）](http://www.codedata.com.tw/java/java-embedded-7-raspberry-pi-gpio-implementation-1/)
+8. [GPIO的基礎應用與實作（下）](http://www.codedata.com.tw/java/java-embedded-7-raspberry-pi-gpio-implementation-2/)
+9. GPIO進階應用 – 超音波感應器
+10. GPIO進階應用 – 伺服馬達
 11. 整合應用 – 停車場模擬系統（上）
 12. 整合應用 – 停車場模擬系統（下）
 
