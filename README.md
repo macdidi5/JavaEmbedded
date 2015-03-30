@@ -14,7 +14,7 @@ Java Embedded
 9. [GPIO進階應用 – 超音波感應器](http://www.codedata.com.tw/java/java-embedded-9-gpio-ultrasonic-wave/)
 10. [GPIO進階應用 – 伺服馬達](http://www.codedata.com.tw/java/java-embedded-10-gpio-motor/)
 11. [整合應用 – 停車場模擬系統（上）](http://www.codedata.com.tw/java/java-embedded-11-parking-lot/)
-12. 整合應用 – 停車場模擬系統（下）
+12. [整合應用 – 停車場模擬系統（下）](http://www.codedata.com.tw/java/java-embedded-12-parking-lot-2/)
 
 ============
 [CodeData - Michael](http://www.codedata.com.tw/author/michael)
