@@ -11,10 +11,10 @@ Java Embedded
 6. [認識 Raspberry Pi 的 GPIO](http://www.codedata.com.tw/java/java-embedded-6-raspberry-pi-gpio/)
 7. [GPIO的基礎應用與實作（上）](http://www.codedata.com.tw/java/java-embedded-7-raspberry-pi-gpio-implementation-1/)
 8. [GPIO的基礎應用與實作（下）](http://www.codedata.com.tw/java/java-embedded-7-raspberry-pi-gpio-implementation-2/)
-9. [GPIO進階應用 – 超音波感應器](http://www.codedata.com.tw/java/java-embedded-9-gpio-ultrasonic-wave/)
-10. [GPIO進階應用 – 伺服馬達](http://www.codedata.com.tw/java/java-embedded-10-gpio-motor/)
-11. [整合應用 – 停車場模擬系統（上）](http://www.codedata.com.tw/java/java-embedded-11-parking-lot/)
-12. [整合應用 – 停車場模擬系統（下）](http://www.codedata.com.tw/java/java-embedded-12-parking-lot-2/)
+9. [紅外線測距模組與類比數位轉換](http://www.codedata.com.tw/java/java-embedded-9-gpio-ultrasonic-wave/)
+10. [GPIO進階應用 – 步進馬達達](http://www.codedata.com.tw/java/java-embedded-10-gpio-motor/)
+11. [控制直流馬達 - 使用L293D晶片](http://www.codedata.com.tw/java/java-embedded-11-parking-lot/)
+12. [整合應用 – PiFan](http://www.codedata.com.tw/java/java-embedded-12-parking-lot-2/)
 
 ============
 [CodeData - Michael](http://www.codedata.com.tw/author/michael)
