@@ -14,7 +14,7 @@ Java Embedded
 7. [GPIO的基礎應用與實作（上）](http://www.codedata.com.tw/java/java-embedded-7-raspberry-pi-gpio-implementation-1/)
 8. [GPIO的基礎應用與實作（下）](http://www.codedata.com.tw/java/java-embedded-7-raspberry-pi-gpio-implementation-2/)
 9. [紅外線測距模組與類比數位轉換](http://www.codedata.com.tw/java/java-embedded-9-gpio-ultrasonic-wave/)
-10. [GPIO進階應用 – 步進馬達達](http://www.codedata.com.tw/java/java-embedded-10-gpio-motor/)
+10. [GPIO進階應用 – 步進馬達](http://www.codedata.com.tw/java/java-embedded-10-gpio-motor/)
 11. [控制直流馬達 - 使用L293D晶片](http://www.codedata.com.tw/java/java-embedded-11-parking-lot/)
 12. [整合應用 – PiFan](http://www.codedata.com.tw/java/java-embedded-12-parking-lot-2/)
 
